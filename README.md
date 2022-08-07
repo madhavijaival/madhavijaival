@@ -19,6 +19,7 @@
 
 - 🔭 Student at California State University, Northridge
 - ⚡ Fun fact: I love problem solving
+- :seedling: Exploring new technologies
 
 
 <div align="center">
