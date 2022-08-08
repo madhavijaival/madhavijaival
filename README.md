@@ -2,9 +2,7 @@
 <div align="center">
    <h1> Hey, I'm Madhavi Jaival </h1>
 </div>
-<div id="header" align ="right">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-</div>
+
 <a href="https://www.linkedin.com/in/madhavi-jaival/">
   <img align="left" alt="Madhavi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,7 +13,7 @@
 <br/>
 <br/>
 
-
+<img align ="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 
 - 🔭 Student at California State University, Northridge
 - ⚡ Fun fact: I love problem solving
