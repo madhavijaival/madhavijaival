@@ -10,7 +10,7 @@
 
 <img align ="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 
-- 🔭 Student at California State University, Northridge
+- 🔭 Recent Graduate from California State University, Northridge
 - ⚡ Fun fact: I love problem solving
 - :seedling: Exploring new technologies
 
