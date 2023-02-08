@@ -6,9 +6,8 @@
 
 
 <br/>
-<br/>
 
-<img align ="right" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="250"/>
+<img align="right" width="280" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="250"/>
 
 - :woman_student: New Grad (CSUN)
 - ⚡ Fun fact: I love problem solving
