@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1> Hey, I'm Madhavi Jaival </h1>
+   <h1> Hey, I'm Madhavi Jaival :raising_hand: </h1>
 </div>
 
 
@@ -10,8 +10,10 @@
 
 <img align ="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 
+- :woman_student: New Grad (CSUN)
 - ⚡ Fun fact: I love problem solving
-- :seedling: Exploring new technologies
+- :woman_technologist: Exploring new technologies
+
 
 
 <div align="center">
